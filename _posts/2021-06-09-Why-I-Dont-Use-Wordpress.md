@@ -3,6 +3,7 @@ title: Why I Don't Use Wordpress
 image: /assets/images/wordpress.jpg
 author: Graham
 layout: single
+tags: wordpress jekyll 
 description: Wordpress powers around 40% of websites on the Internet. I chose not to use Wordpress, instead settling for Jekyll where possible. Here I discuss my reasons for doing so and why I think that Wordpress shouldn't be considered a "one box fits all" product.
 ---
 ## Why and How
